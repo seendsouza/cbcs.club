@@ -6,7 +6,7 @@ class Footer extends Component {
     return (
         <div class="ui inverted vertical footer segment">
     <div class="ui container">
-        Sean Academy 2018. All Rights Reserved
+        cbcs.club 2018. All Rights Reserved
     </div>
 </div>
     );
