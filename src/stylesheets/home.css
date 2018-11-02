@@ -4,6 +4,9 @@
   top: 0;
   text-align: center;
 }
+.section {
+    text-align: center;
+}
 .section1 h1 {
   color: #22264b;
   padding-top: 1em;
@@ -21,6 +24,8 @@ font-size: 3em;
 .section1 p {
     font-family: Open Sans;
     font-size: 1em;
+    width: 60%;
+    text-align: center;
 }
 
 .section2 {
