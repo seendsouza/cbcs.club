@@ -14,12 +14,21 @@
 - Red: #e64423
 - Disabled: #aeaeb7
 
-## Interactive Colours (Dark):
+## Layout Colours (Dark):
 - Brand Colour: #0997b3
-- 
+- Low Contrast: #494b51
+- High Contrast: #dcdfe4
+- Medium Contrast: #c8ccce
 
-## Interactive Colours (White):
+## Layout Colours (White):
+- Brand Colour: #0997b3
+- Low Contrast: #c8ccce
+- High Contrast: #383a42
+- Medium Contrast: #494b51
 
-
-## Layout Colours:
-- 
+## Interactive Colours:
+- +2: #5cc2cf
+- +1: #56b6c2
+- 0: #4b9ea8
+- -1: #3a7a82
+- -2: #1d3e42
