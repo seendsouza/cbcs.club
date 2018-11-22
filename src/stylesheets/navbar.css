@@ -13,7 +13,7 @@ body {
 
 
 header {
-  background: #22264b;
+  background: #383a42;
 }
 
 .icon {
@@ -52,21 +52,21 @@ nav li {
 }
 
 nav a {
-  color: #e8edf3;
+  color: #dcdfe4;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 14px;
 }
 
 nav a:hover {
-  color: #e6cf8b;
+  color: #aeaeb7;
 }
 
 nav a::before {
   content: '';
   display: block;
   height: 5px;
-  background-color: #444;
+  background-color: #aeaeb7;
   position: absolute;
   top: 0;
   width: 0%;

@@ -4,7 +4,7 @@ import { Route, Switch } from 'react-router-dom';
 /***
 * Import all page components here
 */
-import Home from './components/home'
+import Home from './pages/home'
 
 class Routes extends Component {
   render() {
